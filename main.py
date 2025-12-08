@@ -61,13 +61,13 @@ def simon_game():
         
         seq.append(random.randint(0, 3))
         
-        lcd.move_to(0,2); lcd.putstr(f"Level {level}: Watch... ")
+        lcd.move_to(0,2); lcd.putstr(f"Level {level}: Lihat... ")
         time.sleep(0.5)
         for s in seq:
             flash_led(s, 0.4)
             time.sleep(0.2)
             
-        lcd.move_to(0,2); lcd.putstr(f"Level {level}: Repeat!  ")
+        lcd.move_to(0,2); lcd.putstr(f"Level {level}: Ulang!  ")
         
         for ans in seq:
             user_in = read_btn()
