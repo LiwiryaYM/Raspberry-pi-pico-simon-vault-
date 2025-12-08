@@ -43,7 +43,7 @@ Sistem ini memiliki dua mode operasi utama:
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Raspberry_Pi_-_Logo.svg" width="40" alt="Raspberry Pi" style="margin-right: 15px;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" alt="MicroPython" style="margin-right: 15px;"/>
-  <img src="https://raw.githubusercontent.com/wokwi/wokwi-features/main/assets/logo.svg" width="40" alt="Wokwi"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Wokwi.png" width="40" alt="Wokwi"/>
 </p>
 
 * **Hardware:** Raspberry Pi Pico W
