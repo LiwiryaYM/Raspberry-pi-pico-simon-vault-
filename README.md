@@ -127,22 +127,4 @@ Kontribusi selalu diterima\! Jika Anda ingin meningkatkan fitur (misalnya menamb
 
 -----
 
-## 📄 Lisensi
-
-Proyek ini didistribusikan di bawah lisensi **MIT**.
-
-```text
-MIT License
-
-Copyright (c) 2025 CherryYume夢
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software...
-```
-
-Silakan lihat file [LICENSE](https://www.google.com/search?q=./LICENSE) untuk teks lengkapnya.
-
------
-
 *Dibuat Oleh Liwirya sambil ☕.*
