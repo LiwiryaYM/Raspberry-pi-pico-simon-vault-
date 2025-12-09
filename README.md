@@ -79,7 +79,7 @@ Berikut adalah pemetaan pin GPIO yang digunakan dalam kode `main.py`. Pastikan r
 
 ### Opsi 1: Simulasi Online (Disarankan)
 Anda dapat langsung menjalankan proyek ini tanpa instalasi software apapun melalui browser:
-👉 **[Buka Simulasi di Wokwi](https://pornhub.com)**
+👉 **[Buka Simulasi di Wokwi](https://wokwi.com/projects/449697556937651201)**
 
 ### Opsi 2: Menjalankan di Hardware Fisik
 
